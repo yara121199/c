@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667277633 source:c:\users\bluelap com\desktop\day1_4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667277914 source:e:\iti\asyment_c\day1_4\main.c
+	<stdio.h>
+	<stdlib.h>
+
